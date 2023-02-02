@@ -80,14 +80,16 @@
   ],
   "portfolio": [
     {
-      "nome": "Construa um Projeto Lógico de Banco de Dados",
-      "gitHub": "https://github.com/Player35Oficial/dio-desafio-SGBD/tree/main/Oficina",
-      "certificado": "https://www.dio.me/certificate/BDB4B7BD"
+      "name": "Construa um Projeto Lógico de Banco de Dados",
+      "url": "https://github.com/Player35Oficial/dio-desafio-SGBD/tree/main/Oficina",
+      "certificado": "https://www.dio.me/certificate/BDB4B7BD",
+      "git": true
     },
     {
-      "nome": "Construindo uma Pokedéx com JavaScript",
-      "gitHub": "https://github.com/Player35Oficial/js-developer-pokedex/tree/projeto-base",
-      "certificado": "https://www.dio.me/certificate/411E2B32"
+      "name": "Construindo uma Pokedéx com JavaScript",
+      "url": "https://github.com/Player35Oficial/js-developer-pokedex/tree/projeto-base",
+      "certificado": "https://www.dio.me/certificate/411E2B32",
+      "git": true
     }
   ],
   "experiencias": [
