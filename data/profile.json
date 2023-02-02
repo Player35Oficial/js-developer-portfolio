@@ -18,6 +18,10 @@
       {
         "nome": "JavaScript",
         "logo": "https://raw.githubusercontent.com/Player35Oficial/js-developer-portfolio/main/data/imgs/js.png"
+      },
+      {
+        "nome": "MySQL",
+        "logo": "https://raw.githubusercontent.com/Player35Oficial/js-developer-portfolio/main/data/imgs/mysql.png"
       }
     ],
     "softSkills": [
