@@ -92,15 +92,12 @@
       "git": true
     }
   ],
-  "experiencias": [
+  "professionalExperience": [
     {
-      "nome": "Aprendiz Eletricista",
-      "descricao": "",
+      "name": "Aprendiz Técnico / SENAI",
+      "description": "O Curso Técnico de Eletroeletrônica tem por objetivo habilitar profissionais para desenvolver projetos de sistemas eletroeletrônicos de baixa tensão e atuar nos processos de instalação e manutenção de sistemas eletroeletrônicos, considerando a legislação, normas, padrões e requisitos técnicos de qualidade, saúde, segurança e de meio ambiente.",
       "instituicao": "Escola SENAI - 'Ary Torres'",
-      "periodo": {
-        "inicio": "07/2021",
-        "fim": "Atualmente"
-      }
+      "period": "2021 - Atualmente"
     }
   ]
 }
